@@ -22,12 +22,12 @@ const BestPractices = () => {
       <NextSeo
         title="Best Practices for Using Your Free Government Phone Wisely"
         description="Learn practical tips and strategies to maximize the benefits of your free government phone while maintaining service eligibility."
-        canonical="https://govtphones.org/blog/best-practices"
+        canonical="https://govtphones.org/blog/best-practices/"
         openGraph={{
           title: 'Best Practices for Using Your Free Government Phone Wisely',
           description:
             'Expert tips on making the most of your free government phone service while staying compliant with program rules.',
-          url: 'https://govtphones.org/blog/best-practices',
+          url: 'https://govtphones.org/blog/best-practices/',
           type: 'article',
           article: {
             publishedTime: '2024-11-16T00:00:00Z',
