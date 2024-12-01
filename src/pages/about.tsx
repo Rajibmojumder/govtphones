@@ -9,7 +9,7 @@ const About = () => {
       <NextSeo
         title="About Us | GovtPhones.org"
         description="Learn about our mission to help eligible Americans access free government phones and stay connected through the Lifeline and ACP programs."
-        canonical="https://govtphones.org/about"
+        canonical="https://govtphones.org/about/"
       />
       <div className="min-h-screen flex flex-col">
         <Header />
