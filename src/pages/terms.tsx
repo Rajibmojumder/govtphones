@@ -9,7 +9,7 @@ const Terms = () => {
       <NextSeo
         title="Terms of Service | GovtPhones.org"
         description="Read our terms of service to understand your rights and responsibilities when using our website and services."
-        canonical="https://govtphones.org/terms"
+        canonical="https://govtphones.org/terms/"
       />
       <div className="min-h-screen flex flex-col">
         <Header />
